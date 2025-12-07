@@ -96,6 +96,3 @@ python gradio_app.py
 🤝 Contributors
 
 **Tulika Sharma**
-
-
-Just say **“enhance the README”**.
